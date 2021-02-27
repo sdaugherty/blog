@@ -4,3 +4,6 @@
 
 # Ignore build directory
 public
+
+# Ignore editor backups
+*~
