@@ -7,6 +7,16 @@ draft: false
 Friends and family sometimes ask me about how to stay safe online. I've
 compiled a few tips on computer security here.
 
+<!--more-->
+
+{{< notice warning "Caution" >}} # success, info, warning, error
+This guide is intended for the average user, and represents what I consider
+the bare minimum needed to stay safe online. If you are an activist,
+journalist, politician, or someone else in a high-risk situation, then there
+are a lot more concerns for you than this can possibly address, and you
+should check out the Electronic Frontier Foundation's [Surveilance Self
+Defense guides](https://ssd.eff.org/en).
+{{< /notice >}}
 
 ## Use a Password Manager
 
