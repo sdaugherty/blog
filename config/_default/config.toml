@@ -1,6 +1,6 @@
 baseURL = "https://stephaniedaugherty.com"
 title = "Stephanie's Blog"
-theme = "zzo"
+theme = "zdocs"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
