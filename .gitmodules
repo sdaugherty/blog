@@ -1,3 +1,6 @@
 [submodule "themes/mero"]
 	path = themes/mero
 	url = https://github.com/darshanbaral/mero.git
+[submodule "themes/zdoc"]
+	path = themes/zdoc
+	url = https://github.com/zzossig/hugo-theme-zzo.git
