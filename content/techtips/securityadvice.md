@@ -9,7 +9,7 @@ compiled a few tips on computer security here.
 
 <!--more-->
 
-{{< notice warning "Caution" >}} # success, info, warning, error
+{{< notice warning "Caution" >}}
 This guide is intended for the average user, and represents what I consider
 the bare minimum needed to stay safe online. If you are an activist,
 journalist, politician, or someone else in a high-risk situation, then there
