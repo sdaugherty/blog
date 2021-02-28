@@ -22,10 +22,9 @@ image:
 
 
 Hugo includes a `hugo new` command, which will create a new file for you
-using one of your archetypes as the initial content. 
+using one of your [archetypes](https://gohugo.io/content-management/archetypes/) as the initial content. 
 
-You can make this even more useful by setting hugo to automatically open
-your editor after using this command.
+You can make this even more useful by setting hugo to automatically open your editor after using this command.
 
 <!--more-->
 
