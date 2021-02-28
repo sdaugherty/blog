@@ -31,12 +31,14 @@ While this third reclaimation was not without controversy, it was perhaps the mo
 
 ## The status of queer today
 
-> We're here, and we're queer, and if you don't like it, you can go fuck yourself.
+> We're here, and we're queer.
 
 Today, many of us wear the word as a badge of pride and solidarity with those who have fought, often times with their lives, for our right to exist. Still others, who still remember being targeted at them in the time between Stonewall, and its third reclaimation in the 90s reject it. However the largest push against the term queer today comes from those outside the LGBTQIA+ community, because solidarity and radical inclusiveness threaten their ability to divide and renew oppression against us. They seek to remind us of the word queer's painful past to force us to enumerate our identities, and to give specific labels which can be singled out and targeted. They seek to divide us from those who fought for our right to exist.
 
 ## In defense of the word 
 
 The word queer is so intertwined with the struggles for gay and trans rights that to give it up again after so many have used it as a rallying cry would be to erase the memory of those struggles, and of those who fought and continue to fight simply to be allowed to exist and enjoy the same rights to live, work, and love as cisheteronormative society. 
+
+More importantly, the inclusiveness of the word is liberating - instead of describing myself as a "demisexual transgender lesbian", and explaining what all of those labels mean, or sometimes even defending those labels, I can simply say "I'm queer".  
 
 I am proud to describe myself as queer today, because I know that those who came before me fought for that word, because there's not that much distance between those struggles, and my own struggle to exist and be recognized, and because even today, we're still fighting to keep the rights many of us gave up our lives to secure.
