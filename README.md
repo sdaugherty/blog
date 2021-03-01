@@ -1,4 +1,4 @@
-# Hugo for Platform.sh
+# Stephanie's Blog using Hugo on Platform.sh
 
 <p align="center">
 <a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/hugo/.platform.template.yaml&utm_content=hugo&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
