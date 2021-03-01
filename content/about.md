@@ -27,6 +27,6 @@ of our continious deployment cloud hosting, and serve as the unofficial
 Outside of work, I spend a fair bit of time gaming, and I also enjoy hiking
 and kayaking. 
 
-Some of the games I've been playing recently are [Minecraft]({{ ref . "/interests/minecraft.md" }}, and
+Some of the games I've been playing recently are [Minecraft]({{ ref . "/interests/minecraft.md"}}), and
 [Stardew Valley]({{ ref . "/interests/stardew.md" }}).
 
