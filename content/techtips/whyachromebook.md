@@ -92,3 +92,23 @@ market.
 This is probably the strongest use case for me - the ability to run Android
 apps on a larger screen, with a keyboard and mouse available if I need or
 want it.
+
+## Linux Desktop
+
+Chromebooks are a good alternative to a Linux desktop for many users, as
+they provide a Debian VM with the ability to run both CLI applications and
+even X11 applications with very little overhead. No full blown desktop
+environment to bloat the system, but there are some caveats. 
+
+Graphics acceleration isn't available without enabling an experemental
+option under chrome flags, and the environment's sandboxed from the rest of
+ChromeOS and from the network - you won't be able to have services exposed
+outside of the Linux sandbox without port forwarding, which is limited to
+ports above 1024. The integration isn't perfect either - I haven't been able
+to figure out a way to open Chrome from within the Linux environment, short
+of having a completely seperate copy of Chrome inside the sandbox.
+
+With that said, this does give you one advantage that the typical Linux desktop
+environment doesn't have - the ability to run Android apps on the same
+machine, so you necessarily don't have to give up as much as you normally
+would by running a Linux desktop.
